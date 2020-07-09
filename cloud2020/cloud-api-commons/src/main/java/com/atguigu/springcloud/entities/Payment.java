@@ -14,10 +14,6 @@ public class Payment implements Serializable {
     private int id;
     private String serial;
 
-    public static void main(String[] args) {
-        System.out.println("Hello ~this is Liu");
-        System.out.println("I am liubaolai");
-    }
 }
 
 
